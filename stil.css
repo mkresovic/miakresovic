@@ -1,0 +1,29 @@
+@charset "utf-8" ;
+/* CSS Document */
+p {
+	color: Green;
+	font-family: Monospace "Lucida Console", Sans-serif "Helvetica" ;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: Black;
+	padding: 10px;
+	
+}
+
+h1, h2 {
+	color: Green;
+	font-family: Monospace "Lucida Console", Sans-serif "Helvetica" ;
+	
+}
+
+a {
+	color: Orange;
+	background-color: Green;
+	font-family: Monospace "Lucida Console", Sans-serif "Helvetica" ;
+	
+}
+img {
+	height: 200px;
+	
+}
