@@ -1,25 +1,25 @@
 @charset "utf-8" ;
 /* CSS Document */
 p {
-	color: Green;
+	color: Black;
 	font-family: Monospace "Lucida Console", Sans-serif "Helvetica" ;
 	font-size: 16px;
 	line-height: 18px;
 	width: 600px;
-	background-color: Black;
+	background-color: #CD5C5C;
 	padding: 10px;
 	
 }
 
 h1, h2 {
-	color: Green;
+	color: #483D8B;
 	font-family: Monospace "Lucida Console", Sans-serif "Helvetica" ;
 	
 }
 
 a {
-	color: Orange;
-	background-color: Green;
+	color: Black;
+	background-color: #CD5C5C;
 	font-family: Monospace "Lucida Console", Sans-serif "Helvetica" ;
 	
 }
